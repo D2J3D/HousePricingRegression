@@ -1,1 +1,1 @@
-# HousePricingRegressionModels
+# Решение задачи предсказания цены дома по признакам
